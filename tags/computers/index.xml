@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Computers on MythWeaver</title>
+    <link>https://thorskald.github.io/tags/computers/</link>
+    <description>Recent content in Computers on MythWeaver</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 01 Nov 2022 01:00:00 +0000</lastBuildDate><atom:link href="https://thorskald.github.io/tags/computers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Soundcards</title>
+      <link>https://thorskald.github.io/posts/about-soundcards/</link>
+      <pubDate>Tue, 01 Nov 2022 01:00:00 +0000</pubDate>
+      
+      <guid>https://thorskald.github.io/posts/about-soundcards/</guid>
+      <description>Sound systems in computers have fascinated me for years, I have done countless research on them, but my knowledge is still very superficial. Every year, at certain times, I do research about old computers, sound cards, graphics cards, games, and learn over and over again what I know.
+I worked a lot on sound cards, especially on Sound Blaster and its models. Although I know many fine details, I have learned many things wrongly due to the information pollution on the internet and the indirect explanation of some expressions instead of the correct ones.</description>
+    </item>
+    
+  </channel>
+</rss>

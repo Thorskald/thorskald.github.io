@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MythWeaver</title>
+    <link>https://thorskald.github.io/</link>
+    <description>Recent content on MythWeaver</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 27 Jan 2023 23:30:03 +0000</lastBuildDate><atom:link href="https://thorskald.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Darkest Garfield Story Ever</title>
+      <link>https://thorskald.github.io/posts/darkest-garfield-story-ever/</link>
+      <pubDate>Fri, 27 Jan 2023 23:30:03 +0000</pubDate>
+      
+      <guid>https://thorskald.github.io/posts/darkest-garfield-story-ever/</guid>
+      <description>Published on October 23-28, 1989, Garfield comic strips are shown as the darkest and most interesting story in 45 years of Garfield history. Garfield confronts the existential fear of loneliness and lost in time and cannot accept it&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>About Soundcards</title>
+      <link>https://thorskald.github.io/posts/about-soundcards/</link>
+      <pubDate>Tue, 01 Nov 2022 01:00:00 +0000</pubDate>
+      
+      <guid>https://thorskald.github.io/posts/about-soundcards/</guid>
+      <description>Sound systems in computers have fascinated me for years, I have done countless research on them, but my knowledge is still very superficial. Every year, at certain times, I do research about old computers, sound cards, graphics cards, games, and learn over and over again what I know.
+I worked a lot on sound cards, especially on Sound Blaster and its models. Although I know many fine details, I have learned many things wrongly due to the information pollution on the internet and the indirect explanation of some expressions instead of the correct ones.</description>
+    </item>
+    
+    <item>
+      <title>A Brief History of BeOS</title>
+      <link>https://thorskald.github.io/posts/a-brief-history-of-beos/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://thorskald.github.io/posts/a-brief-history-of-beos/</guid>
+      <description>After Jean-Louis Gassée left Apple in 1990, he started his own company, Be Inc., like Steve Jobs. was founded in 1991. Not only did he develop a computer with a RISC-based &amp;ldquo;Hobbit&amp;rdquo; processor developed by At&amp;amp;T, he also started preparing an operating system for this computer. The computer was called BeBox, but in 1995 AT&amp;amp;T stopped developing the Hobbit processor and Gassée&amp;rsquo;s computer design fell through. Gassée was not one to give up easily, he immediately equipped his computer with two 66 Mhz PowerPC 603 processors, since the operating system he prepared was written in C and C++ language, it was easily adapted to the new processor and BeBox met the user in January 1996.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://thorskald.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thorskald.github.io/about/</guid>
+      <description>about</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>

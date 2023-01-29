@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Comics on MythWeaver</title>
+    <link>https://thorskald.github.io/tags/comics/</link>
+    <description>Recent content in Comics on MythWeaver</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 27 Jan 2023 23:30:03 +0000</lastBuildDate><atom:link href="https://thorskald.github.io/tags/comics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Darkest Garfield Story Ever</title>
+      <link>https://thorskald.github.io/posts/darkest-garfield-story-ever/</link>
+      <pubDate>Fri, 27 Jan 2023 23:30:03 +0000</pubDate>
+      
+      <guid>https://thorskald.github.io/posts/darkest-garfield-story-ever/</guid>
+      <description>Published on October 23-28, 1989, Garfield comic strips are shown as the darkest and most interesting story in 45 years of Garfield history. Garfield confronts the existential fear of loneliness and lost in time and cannot accept it&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

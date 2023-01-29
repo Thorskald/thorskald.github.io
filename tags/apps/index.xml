@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Apps on MythWeaver</title>
+    <link>https://thorskald.github.io/tags/apps/</link>
+    <description>Recent content in Apps on MythWeaver</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thorskald.github.io/tags/apps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Brief History of BeOS</title>
+      <link>https://thorskald.github.io/posts/a-brief-history-of-beos/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://thorskald.github.io/posts/a-brief-history-of-beos/</guid>
+      <description>After Jean-Louis Gassée left Apple in 1990, he started his own company, Be Inc., like Steve Jobs. was founded in 1991. Not only did he develop a computer with a RISC-based &amp;ldquo;Hobbit&amp;rdquo; processor developed by At&amp;amp;T, he also started preparing an operating system for this computer. The computer was called BeBox, but in 1995 AT&amp;amp;T stopped developing the Hobbit processor and Gassée&amp;rsquo;s computer design fell through. Gassée was not one to give up easily, he immediately equipped his computer with two 66 Mhz PowerPC 603 processors, since the operating system he prepared was written in C and C++ language, it was easily adapted to the new processor and BeBox met the user in January 1996.</description>
+    </item>
+    
+  </channel>
+</rss>
