@@ -171,6 +171,11 @@ Garfield confronts the existential fear of loneliness and lost in time and canno
       <li><a href="https://thorskald.github.io/tags/comics/">Comics</a></li>
     </ul>
 <nav class="paginav">
+  <a class="prev" href="https://thorskald.github.io/posts/ipod-nano-from-2008-3rd-gen/">
+    <span class="title">« Prev</span>
+    <br>
+    <span>iPod Nano from 2008 (3rd Gen)</span>
+  </a>
   <a class="next" href="https://thorskald.github.io/posts/about-soundcards/">
     <span class="title">Next »</span>
     <br>
@@ -228,12 +233,12 @@ Garfield confronts the existential fear of loneliness and lost in time and canno
     </main>
     
 <footer class="footer">
-    <span>&copy; 2020 - 2023 by <a href="https://thorskald.github.io/"> Bjørn Heimdall</a></span>
-    <span>
+    <span>&copy; 2023 <a href="https://thorskald.github.io/">MythWeaver</a></span>
+<span>
       <b>·</b> Powered by
         <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> v110.0 &
         <a href="https://git.io/hugopapermod" rel="noopener" target="_blank">PaperMod</a>. 💙
-    </span>
+</span>
 </footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
@@ -289,12 +294,12 @@ Garfield confronts the existential fear of loneliness and lost in time and canno
 
         const copybutton = document.createElement('button');
         copybutton.classList.add('copy-code');
-        copybutton.innerText = 'copy';
+        copybutton.innerHTML = 'copy';
 
         function copyingDone() {
-            copybutton.innerText = 'copied!';
+            copybutton.innerHTML = 'copied!';
             setTimeout(() => {
-                copybutton.innerText = 'copy';
+                copybutton.innerHTML = 'copy';
             }, 2000);
         }
 
